@@ -1,7 +1,7 @@
 <?php
 /*
-Plugin Name: CRM Upload Types Integration
-Plugin URI: https://github.com/sconeboi666/crm-upload-types-integration
+Plugin Name: allow-cad-uploads
+Plugin URI: https://github.com/sconeboi666/allow-cad-uploads
 Description: Adds a settings screen to manage allowed upload extensions and MIME types, optionally extends Jetpack CRM accepted upload types at runtime (no core plugin edits), and shows global allowed/excluded lists based on WordPress known types.
 Version: 1.2.0
 Author: batmanbroom
@@ -372,3 +372,4 @@ add_action(
 	},
 	20
 );
+
